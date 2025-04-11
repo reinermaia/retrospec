@@ -41,7 +41,7 @@
 - Habilidades em Big Data Analytics
 - Impacto social da pesquisa acadêmica
 
-![Ícones análise de dados e impacto social](https://www.researchgate.net/profile/Alex-Gomes-11/publication/345986569/figure/fig5/AS:959009305673730@1605657044700/Figura-96-Impacto-social-do-Big-Data.jpg)
+![Ícones análise de dados e impacto social](https://i.ibb.co/YmxN18V/Figura-96-Impacto-social-do-Big-Data.jpg)
 
 ---
 
@@ -50,17 +50,17 @@
 ### ⚖️ Contexto e Desafio
 - Monolito vs. Microsserviços
 
-![Comparação arquiteturas Monolito vs Microsserviços](monolith_vs_microservices_diagram.png)
+![Comparação arquiteturas Monolito vs Microsserviços](https://www.cloudflight.io/app/uploads/2024/10/frame-1-4.png)
 
 ### 🔍 Metodologia de Pesquisa
 - Revisão sistemática (Parsifal, Scopus, IEEE, ACM)
 
-![Fluxograma revisão sistemática](systematic_review_flowchart.png)
+![Fluxograma revisão sistemática](https://i.ibb.co/B5hcYPsn/slr-process.png)
 
 ### 📊 Estudos e Experimentos
 - Granularidade e impacto em performance
 
-![Impacto da granularidade em microsserviços](microservice_granularity_performance_graph.png)
+![Impacto da granularidade em microsserviços](https://i.ibb.co/bjKxR7Y0/mono.png)
 
 ### 📌 Aplicação Prática (Caso PRDI)
 - Desafios e soluções práticas
