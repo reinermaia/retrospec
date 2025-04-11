@@ -1,13 +1,11 @@
-# 🎓 Retrospectiva Acadêmica: Crescimento Pessoal e Profissional
+# 🎓 Retrospectiva Acadêmica
 
-**Seu nome completo**  
+**Francis Martins**  
 *Programa de Pós-Graduação em Computação Aplicada*  
 **Universidade de Brasília (UnB)**  
-**Data:** [Insira a data]
-
 ---
 
-![Símbolo acadêmico representando crescimento](academic_growth_symbol.png)
+![Símbolo acadêmico representando crescimento](https://i.ibb.co/C56gggBM/301790662-505150908278835-5303703642947879083-n.png)
 
 ---
 
@@ -65,16 +63,6 @@
 - Microsserviço
 ![Impacto da granularidade em microsserviços](https://i.ibb.co/k6MfsxGg/micro.png)
 
-### 📌 Aplicação Prática (Caso PRDI)
-- Desafios e soluções práticas
-
-![Diagrama PRDI desafios e soluções](prdi_case_challenges_solutions_diagram.png)
-
-### 🛠️ Aprendizado e Evolução
-- Domínio de arquiteturas de software
-
-![Ícone evolução em arquitetura de software](icon_technical_evolution_software_architecture.png)
-
 ---
 
 ## 🎮 Artigo TAES (Gamificação)
@@ -82,27 +70,12 @@
 ### 🎯 Contexto e Pergunta de Pesquisa
 - Motivação e colaboração via gamificação
 
-![Gamificação e colaboração pública](icons_gamification_collaboration_public_sector.png)
+![Gamificação e colaboração pública](https://www.techtarget.com/rms/onlineimages/gamification_design_elements-f.png)
 
 ### 🔧 Metodologia Aplicada
 - Framework Octalysis para análise de perfis
 
-![Framework Octalysis](octalysis_framework_octagon.png)
-
-### 📋 Resultados e Técnicas
-- Técnicas eficazes de gamificação
-
-![Resumo técnicas Octalysis](table_octalysis_techniques_summary.png)
-
-### 💡 Implicações Práticas
-- Ambientes colaborativos gamificados
-
-![Exemplo interface gamificada](gamified_interface_collaboration_example.png)
-
-### 🧠 Desenvolvimento Pessoal
-- Motivação humana e psicologia aplicada
-
-![Ícone motivação e colaboração](icon_collaboration_human_motivation.png)
+![Framework Octalysis](https://i0.wp.com/yukaichou.com/wp-content/uploads/2024/04/Yu-kai-Chou-Models-and-Frameworks.002.png?fit=1024%2C768&ssl=1)
 
 ---
 
@@ -111,27 +84,19 @@
 ### 🎯 Desafio e Objetivo
 - Automação regulatória financeira
 
-![Fluxograma processo regulatório](regulatory_process_flowchart_manual.png)
-
 ### 🛠️ Abordagens Avaliadas
 - API OpenAI + RAG vs. heurísticas
 
-![Comparativo IA vs regras](comparison_diagram_ai_rag_vs_rules.png)
+![Comparativo IA vs regras](https://doimages.nyc3.cdn.digitaloceanspaces.com/010AI-ML/2024/Shaoni/Adrien/Image_2.png)
 
 ### 📊 Resultados Comparativos
 - Precisão, escalabilidade, custo
 
-![Gráfico comparativo abordagens](comparative_graph_metrics_accuracy_scalability_cost.png)
-
 ### 📈 Contribuições e Impactos
 - Eficiência e compliance financeiro
 
-![Ícones eficiência e compliance](icons_efficiency_compliance_finance.png)
-
 ### 💡 Crescimento Profissional
 - Expertise em automação e IA
-
-![Ícones IA e automação](icons_ai_automation_advanced_tech.png)
 
 ---
 
@@ -140,27 +105,20 @@
 ### 🎯 Problema e Proposta
 - ML para correção de vulnerabilidades
 
-![Ícone ML segurança digital](icon_ml_code_security.png)
-
 ### 🔧 Metodologia e Avaliações
 - CRISP-DM e métricas BLEU, ROUGE, Cosine Similarity
 
-![Diagrama CRISP-DM](crisp_dm_cycle_diagram.png)
+![Diagrama CRISP-DM](https://www.proglobalbusinesssolutions.com/wp-content/uploads/2017/12/data-mining.jpg)
 
 ### 📊 Resultados Alcançados
 - Aplicabilidade e limitações
 
-![Gráfico aplicabilidade ML segurança](graph_ml_autocorrect_applicability_limitations.png)
-
 ### 🔗 Implicações para Desenvolvimento Seguro
 - Complemento a ferramentas tradicionais
-
-![Fortify e SonarQube com IA](logos_fortify_sonarqube_with_ai_ml_icon.png)
 
 ### 🛡️ Aprendizados e Evolução
 - Integração segurança, desenvolvimento, IA
 
-![Ícone segurança e IA](icon_intersection_security_dev_ai.png)
 
 ---
 
@@ -169,17 +127,13 @@
 ### 🔄 Reflexão Final
 - Evolução através dos desafios acadêmicos
 
-![Linha do tempo evolução acadêmica](timeline_academic_professional_evolution.png)
+![Linha do tempo IA e Modelos BERT](https://miro.medium.com/v2/resize:fit:985/1*Pfggf12-8U4djukiIBUsjw.png)
 
 ### ❓ Perguntas ao Público
 - Espaço para discussão e interação
 
-![Ícone perguntas e respostas](icon_qa_discussion.png)
+[Formulário de Captura de Dores](https://forms.gle/SZXiUKJBWbJrZyor5)
 
 ### 📬 Convite ao Contato
-- Nome, e-mail, LinkedIn
-
-![Ícones contato email e LinkedIn](icons_contact_email_linkedin.png)
-
+- francis.reiner@live.com
 ---
-
