@@ -60,7 +60,10 @@
 ### 📊 Estudos e Experimentos
 - Granularidade e impacto em performance
 
-![Impacto da granularidade em microsserviços](https://i.ibb.co/bjKxR7Y0/mono.png)
+- Monolito
+![Impacto da granularidade em microsserviços](https://i.ibb.co/27v5dRww/mono3.png)
+- Microsserviço
+![Impacto da granularidade em microsserviços](https://i.ibb.co/k6MfsxGg/micro.png)
 
 ### 📌 Aplicação Prática (Caso PRDI)
 - Desafios e soluções práticas
