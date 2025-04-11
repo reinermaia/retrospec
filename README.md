@@ -17,7 +17,7 @@
 - Análise da migração interestadual via SISU
 - Dados Abertos e Big Data Analytics
 
-![Mapa do Brasil com fluxos migratórios SISU](brazil_map_sisu_migration_flow.png)
+![Mapa do Brasil com fluxos migratórios SISU]([brazil_map_sisu_migration_flow.png](https://lh6.googleusercontent.com/_ds2nKXJrDGeEH60qDQiAJGYJbvns9y1zgdIxVelLR-gvytlnxg3Tb2tmuzXBkvmks7ujwOORqdKkBNMCDFdXD_C9b71rho1K2UW4oatS5ejDAsOObDSXfsBVh-o=w477))
 
 ### 🛠️ Metodologia
 - Pipeline ETL (Extract, Transform, Load)
