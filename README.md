@@ -17,31 +17,31 @@
 - Análise da migração interestadual via SISU
 - Dados Abertos e Big Data Analytics
 
-![Mapa do Brasil com fluxos migratórios SISU]([brazil_map_sisu_migration_flow.png](https://lh6.googleusercontent.com/_ds2nKXJrDGeEH60qDQiAJGYJbvns9y1zgdIxVelLR-gvytlnxg3Tb2tmuzXBkvmks7ujwOORqdKkBNMCDFdXD_C9b71rho1K2UW4oatS5ejDAsOObDSXfsBVh-o=w477))
+![Texto alternativo da imagem](https://lh6.googleusercontent.com/_ds2nKXJrDGeEH60qDQiAJGYJbvns9y1zgdIxVelLR-gvytlnxg3Tb2tmuzXBkvmks7ujwOORqdKkBNMCDFdXD_C9b71rho1K2UW4oatS5ejDAsOObDSXfsBVh-o=w477)
 
 ### 🛠️ Metodologia
 - Pipeline ETL (Extract, Transform, Load)
 - Análise quantitativa com 580 mil estudantes
 
-![Diagrama do processo ETL](etl_process_diagram.png)
+![Diagrama do processo ETL](https://as2.ftcdn.net/jpg/04/85/84/21/1000_F_485842143_RGw5hFbGfeJFzB63W6r25Pv7VY56fclw.jpg)
 
 ### 📈 Resultados Principais
 - Principais estados emissores/receptores
 - Cursos com maior migração (Medicina, Administração, Engenharia)
 
-![Gráfico cursos mais migrados SISU](bar_chart_top_sisu_courses.png)
+![Gráfico cursos mais migrados SISU](https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2024/01/30150545/extra-sisu-24-grafico.png)
 
 ### 🌍 Contribuição Acadêmica e Social
 - Políticas públicas educacionais
 - Incentivos para retenção de talentos regionais
 
-![Ícones de educação e retenção de talentos](icons_policy_education_talent_retention.png)
+![Ícones de educação e retenção de talentos](https://evacard.com.br/wp-content/uploads/2024/05/porcentagem-organizacoes-brasileiras-que-investem-na-retencao-de-talentos-1024x661.png)
 
 ### 🚀 Aprendizados Pessoais
 - Habilidades em Big Data Analytics
 - Impacto social da pesquisa acadêmica
 
-![Ícones análise de dados e impacto social](icons_data_analysis_social_impact.png)
+![Ícones análise de dados e impacto social](https://www.researchgate.net/profile/Alex-Gomes-11/publication/345986569/figure/fig5/AS:959009305673730@1605657044700/Figura-96-Impacto-social-do-Big-Data.jpg)
 
 ---
 
